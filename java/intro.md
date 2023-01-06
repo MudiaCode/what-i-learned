@@ -1,6 +1,6 @@
 # Welcome to my WIL for Java
 
-I'm  going to primarily use this for my computer science classes as Java is our primary programming language for the course.
+I'm  going to primarily use this for my computer science classes as Java is our primary programming language.
 ___
 ## CS Index 
 ___
