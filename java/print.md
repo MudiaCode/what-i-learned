@@ -1,5 +1,10 @@
 When you want to print something in Java you would need the System to output something to be displayed via the terminal window
 
+System is a capital S because it's a predefinied class name containing several methods and variables related to interacting with the system environment.
+
+'Out' is a static object of System.
+
+
 the basic syntax to display something is usually: 
 ```java
 System.out.println()
