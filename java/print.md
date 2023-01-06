@@ -1,29 +1,29 @@
-When you want to print something in Java you would need the system to output something to be displayed via the terminal window
+When you want to print something in Java you would need the System to output something to be displayed via the terminal window
 
 the basic syntax to display something is usually: 
 ```java
-system.out.println()
+System.out.println()
 ```
 
 In this example I'm going to print "Hello World":
 
 ```java
-system.out.println("Hello World");
+System.out.println("Hello World");
 ```
 You can print multiple lines at the same time:
 
 ```java
-system.out.println("Hello World");
-system.out.println("Hello Brighton");
-system.out.println("Hello London");
+System.out.println("Hello World");
+System.out.println("Hello Brighton");
+System.out.println("Hello London");
 ```
 
 This is not only exclusive to strings. Integers, other data types and even mathematical equations can be displayed:
 
 ```java
-system.out.println("5+5");
-system.out.println("5*10");
-system.out.println(true);
+System.out.println("5+5");
+System.out.println("5*10");
+System.out.println(true);
 ```
 
 ### key notes
