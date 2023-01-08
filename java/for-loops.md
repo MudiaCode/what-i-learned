@@ -21,7 +21,7 @@ This is how it works:
 * The datatype and the name of the list is declared as a variable
 * The list (in curly braces) contains 3 items of choice
 * The loop body starts from `for` to the closing curly brace
-* `place:placeList` means item in list - as seen above the list is named as `placeList` 
+* `place:placeList` means to loop item in list - as seen above the list is named as `placeList` 
 * in summary: the brackets in the for loop is the condition given to the for loop which is to select each item in the list 
 * it then prints the statement multiple times until it reaches the end of the array
 * In the brackets "Hello " is added to the variable `place`.
