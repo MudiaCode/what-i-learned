@@ -53,5 +53,14 @@ Here is a list of useful arrayList methods:
 - `indexOf(object o)` - searches the `ArrayList` for the first occurrence of `o`, and returns its index if found, or -1 if not found
 - `lastIndexOf(object o)` - searches the `ArrayList` for the last occurrence of `o`, and returns its index if found, or-1 if not found
 - `sort(Comparator c)` - sorts the `ArrayList` – useful, but a bit advanced
-___
 
+---
+
+`ArrayLists` can be used in an array just like the ar normal `array`:
+
+```java
+ArrayList<String> myNames;
+    for (String name: myNames){
+        System.out.println(name);
+    }
+```
