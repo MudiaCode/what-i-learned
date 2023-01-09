@@ -1,0 +1,1 @@
+Another way to write if statements is with the use of `switch`✨ 

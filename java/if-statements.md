@@ -77,7 +77,13 @@ if (test1) {
 }
 ```
 
-As you can see, you can use `else` with `else if` too ✨.
+As you can see, you can use `else` with `else if` in an if statement✨.
+
+___
+
+
+
+
 
 In summary, this is basic decision making when solving Java problems. There are different ways to do things but the goal is efficiency. Beneficial for the programmer and also someone who wants to read your code.
 
