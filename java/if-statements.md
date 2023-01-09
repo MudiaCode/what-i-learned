@@ -77,9 +77,27 @@ if (test1) {
 }
 ```
 
-As you can see, you can use `else` with `else if` in an if statement✨.
+Here is `else if` used in a for loop just like the if-statement code:
 
-___
+```java
+String[] = rooms = ("Hall", "Kitchen", "Lounge", "Kitchen", "Bedroom", "Hall")
+
+for (String room : rooms){
+
+    System.out.println("Here we are ");
+    System.out.println("In the " + room + ". ");
+
+    if (room.equals("Kitchen")) {
+        System.out.println("Can you smell the coffee? ");
+    } else if (room.equals("Bedroom")){
+        System.out.println("Plenty of room for all your clothes")
+    } else if (room.equals("lounge")) {
+        System.out.println("Notice the original fireplace")
+    }
+}
+```
+
+As you can see, you can use `else` with `else if` in an if statement✨.
 
 
 
